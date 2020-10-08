@@ -51,7 +51,7 @@ a:hover {
 
 .banner {
     height: 400px;
-    background: #adadad url('../imgs/banner-fundo-small.jpeg') no-repeat scroll;
+    background: #adadad url('../imgs/banner-fundo-big.jpeg') no-repeat scroll;
     /* background-image: url('../imgs/banner-fundo-small.jpeg');
     background-color: #adadad;
     background-repeat: no-repeat;
